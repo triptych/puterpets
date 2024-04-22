@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PuterPets</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+    <header-component></header-component>
+
+    <main>
+        <h1 class="rainbow-text">Welcome to PuterPets!</h1>
+        <p>Discover, adopt, trade, and battle unique dungeon monsters in this exciting virtual pet game.</p>
+
+        <div id="tableContainer"></div>
+        <home-page></home-page>
+    </main>
+    <template id="home-template">
+        <style>
+            .card {
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                padding: 20px;
+                margin-bottom: 20px;
+                filter: blur(4px);
+                /* Add blur effect */
+                transition: filter 0.3s ease;
+                /* Add transition for smooth effect */
+            }
+
+            .card:hover {
+                filter: blur(0);
+                /* Remove blur on hover */
+            }
+
+            .empty-card {
+                text-align: center;
+                color: #888;
+            }
+
+            .pet-info {
+                display: flex;
+                align-items: self-start;
+                margin-bottom: 20px;
+            }
+
+            .pet-icon {
+                width: 100px;
+                height: 100px;
+                margin-right: 20px;
+                border-radius: 4px;
+            }
+
+            .pet-details h3 {
+                margin: 0;
+            }
+
+            .inventory-table {
+                width: 100%;
+                max-height: 200px;
+                overflow-y: auto;
+                border-collapse: collapse;
+            }
+
+            .inventory-table th,
+            .inventory-table td {
+                padding: 8px;
+                border-bottom: 1px solid #ccc;
+            }
+
+            .inventory-table th {
+                background-color: #f2f2f2;
+            }
+        </style>
+        <div class="card">
+            <div class="empty-card" id="emptyCard">You haven't adopted a pet yet.</div>
+            <div class="pet-info" id="petInfo" style="display: none;">
+                <img class="pet-icon" id="petIcon" src="" alt="Pet Icon">
+                <div class="pet-details">
+                    <h3 id="petName"></h3>
+                    <p>HP: <span id="petHP"></span></p>
+                    <p>Mana: <span id="petMana"></span></p>
+                    <p>Wins: <span id="petWins"></span></p>
+                    <p>Losses: <span id="petLosses"></span></p>
+                </div>
+            </div>
+            <h4>Inventory:</h4>
+            <table class="inventory-table" id="inventoryTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Gold Value</th>
+                        <th>Food Value</th>
+                        <th>Attack Value</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </template>
+
+    
+    <script type="module" src="js/puterpets.js"></script>
+</body>
+
+</html>

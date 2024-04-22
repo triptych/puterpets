@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adopt - PuterPets</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+    <header-component></header-component>
+
+    <main>
+        <h1 class="rainbow-text">Adopt a PuterPet</h1>
+        <p>Choose a PuterPet to adopt and add to your collection!</p>
+        <pet-box></pet-box>
+
+    </main>
+
+    <template id="pet-template">
+        <style>
+            .pet-box {
+                border: 1px solid #ccc;
+                padding: 10px;
+                margin-bottom: 10px;
+                text-align: center;
+            }
+            .pet-icon {
+                width: 100px;
+                height: 100px;
+                margin: 0 auto;
+                border-radius: 4px;
+            }
+            .pet-name {
+                font-weight: bold;
+                margin-top: 10px;
+            }
+            .pet-stats {
+                margin-top: 5px;
+            }
+            .pet-buttons {
+                margin-top: 10px;
+            }
+        </style>
+        <div class="pet-box">
+            <img class="pet-icon" />
+            <div class="pet-name"></div>
+            <div class="pet-stats">
+                <div>HP: <span class="pet-hp"></span></div>
+                <div>Mana: <span class="pet-mana"></span></div>
+            </div>
+            <div class="pet-buttons">
+                <button class="prev-button">Previous</button>
+                <button class="next-button">Next</button>
+                <hr/>
+                <button class="adopt-button">Adopt</button>
+            </div>
+        </div>
+    </template>
+
+    <script type = "module" src="js/puterpets.js"></script>
+</body>
+
+</html>

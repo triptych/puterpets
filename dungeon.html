@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dungeon - PuterPets</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+
+    <header-component></header-component>
+
+    <main>
+        <h1 class="rainbow-text">Dungeon</h1>
+        <p>Click fight to battle a random opponent.</p>
+        <battle-component></battle-component>
+    </main>
+    <template id="battle-template">
+        <style>
+            .battle-container {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 20px;
+            }
+
+            .pet-box {
+                border: 1px solid #ccc;
+                padding: 10px;
+                text-align: center;
+            }
+
+            .pet-icon {
+                width: 100px;
+                height: 100px;
+                margin: 0 auto;
+                border-radius: 4px;
+            }
+
+            .pet-name {
+                font-weight: bold;
+                margin-top: 10px;
+            }
+
+            .pet-hp {
+                margin-top: 5px;
+            }
+
+            .fight-button {
+                padding: 10px 20px;
+                font-size: 16px;
+                background-color: #4CAF50;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            .result-message {
+                margin-top: 20px;
+                font-weight: bold;
+                text-align: center;
+            }
+            @keyframes shakePlayer {
+      0% { transform: translateX(0); }
+      10% { transform: translateX(-5px); }
+      20% { transform: translateX(5px); }
+      30% { transform: translateX(-5px); }
+      40% { transform: translateX(5px); }
+      50% { transform: translateX(0); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes shakeOpponent {
+      0% { transform: translateX(0); }
+      10% { transform: translateX(5px); }
+      20% { transform: translateX(-5px); }
+      30% { transform: translateX(5px); }
+      40% { transform: translateX(-5px); }
+      50% { transform: translateX(0); }
+      100% { transform: translateX(0); }
+    }
+    .shakePlayer {
+      animation: shakePlayer 0.5s;
+    }
+    .shakeOpponent {
+      animation: shakeOpponent 0.5s;
+    }
+        </style>
+        <div class="battle-container">
+            <div class="pet-box player-pet">
+                <img class="pet-icon player-icon" />
+                <div class="pet-name player-name"></div>
+                <div class="pet-hp player-hp"></div>
+            </div>
+            <button class="fight-button">Fight</button>
+            <div class="pet-box opponent-pet">
+                <img class="pet-icon opponent-icon" />
+                <div class="pet-name opponent-name"></div>
+                <div class="pet-hp opponent-hp"></div>
+            </div>
+        </div>
+        <div class="result-message"></div>
+    </template>
+    <script type="module" src="js/puterpets.js"></script>
+</body>
+
+</html>
