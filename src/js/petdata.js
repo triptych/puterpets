@@ -2,7 +2,7 @@ export const petdata = {
     "data": [
         {
             "id": 1,
-            "name": "cloaked-figure-on-horseback",
+            "name": "Cloaked figure on horseback",
             "iconUrl": "svg/cloaked-figure-on-horseback.svg",
             "stats": {
                 "hp": 76,
@@ -11,7 +11,7 @@ export const petdata = {
         },
         {
             "id": 2,
-            "name": "goblin",
+            "name": "Goblin",
             "iconUrl": "svg/goblin.svg",
             "stats": {
                 "hp": 93,
@@ -20,7 +20,7 @@ export const petdata = {
         },
         {
             "id": 3,
-            "name": "bad-gnome",
+            "name": "Bad gnome",
             "iconUrl": "svg/bad-gnome.svg",
             "stats": {
                 "hp": 28,
@@ -29,7 +29,7 @@ export const petdata = {
         },
         {
             "id": 4,
-            "name": "fomorian",
+            "name": "Fomorian",
             "iconUrl": "svg/fomorian.svg",
             "stats": {
                 "hp": 52,
@@ -38,7 +38,7 @@ export const petdata = {
         },
         {
             "id": 5,
-            "name": "medusa-head",
+            "name": "Medusa head",
             "iconUrl": "svg/medusa-head.svg",
             "stats": {
                 "hp": 67,
@@ -47,7 +47,7 @@ export const petdata = {
         },
         {
             "id": 6,
-            "name": "transparent-slime",
+            "name": "Transparent slime",
             "iconUrl": "svg/transparent-slime.svg",
             "stats": {
                 "hp": 19,
@@ -56,7 +56,7 @@ export const petdata = {
         },
         {
             "id": 7,
-            "name": "tree-face",
+            "name": "Tree face",
             "iconUrl": "svg/tree-face.svg",
             "stats": {
                 "hp": 81,
@@ -65,7 +65,7 @@ export const petdata = {
         },
         {
             "id": 8,
-            "name": "witch-face",
+            "name": "Witch face",
             "iconUrl": "svg/witch-face.svg",
             "stats": {
                 "hp": 45,
@@ -74,7 +74,7 @@ export const petdata = {
         },
         {
             "id": 9,
-            "name": "alien-bug",
+            "name": "Alien bug",
             "iconUrl": "svg/alien-bug.svg",
             "stats": {
                 "hp": 37,
@@ -83,7 +83,7 @@ export const petdata = {
         },
         {
             "id": 10,
-            "name": "alien-egg",
+            "name": "Alien egg",
             "iconUrl": "svg/alien-egg.svg",
             "stats": {
                 "hp": 90,
@@ -92,7 +92,7 @@ export const petdata = {
         },
         {
             "id": 11,
-            "name": "anubis",
+            "name": "Anubis",
             "iconUrl": "svg/anubis.svg",
             "stats": {
                 "hp": 64,
@@ -101,7 +101,7 @@ export const petdata = {
         },
         {
             "id": 12,
-            "name": "bottled-shadow",
+            "name": "Bottled shadow",
             "iconUrl": "svg/bottled-shadow.svg",
             "stats": {
                 "hp": 23,
@@ -110,7 +110,7 @@ export const petdata = {
         },
         {
             "id": 13,
-            "name": "brain-tentacle",
+            "name": "Brain tentacle",
             "iconUrl": "svg/brain-tentacle.svg",
             "stats": {
                 "hp": 56,
@@ -119,7 +119,7 @@ export const petdata = {
         },
         {
             "id": 14,
-            "name": "brute",
+            "name": "Brute",
             "iconUrl": "svg/brute.svg",
             "stats": {
                 "hp": 82,
@@ -128,7 +128,7 @@ export const petdata = {
         },
         {
             "id": 15,
-            "name": "bullet-bill",
+            "name": "Bullet Bill",
             "iconUrl": "svg/bullet-bill.svg",
             "stats": {
                 "hp": 49,
@@ -137,7 +137,7 @@ export const petdata = {
         },
         {
             "id": 16,
-            "name": "bully-minion",
+            "name": "Bully minion",
             "iconUrl": "svg/bully-minion.svg",
             "stats": {
                 "hp": 71,
@@ -146,7 +146,7 @@ export const petdata = {
         },
         {
             "id": 17,
-            "name": "carnivorous-plant",
+            "name": "Carnivorous plant",
             "iconUrl": "svg/carnivorous-plant.svg",
             "stats": {
                 "hp": 14,
@@ -155,7 +155,7 @@ export const petdata = {
         },
         {
             "id": 18,
-            "name": "ceiling-barnacle",
+            "name": "Ceiling barnacle",
             "iconUrl": "svg/ceiling-barnacle.svg",
             "stats": {
                 "hp": 87,
@@ -164,7 +164,7 @@ export const petdata = {
         },
         {
             "id": 19,
-            "name": "centaur",
+            "name": "Centaur",
             "iconUrl": "svg/centaur.svg",
             "stats": {
                 "hp": 32,
@@ -173,7 +173,7 @@ export const petdata = {
         },
         {
             "id": 20,
-            "name": "daemon-pull",
+            "name": "Daemon pull",
             "iconUrl": "svg/daemon-pull.svg",
             "stats": {
                 "hp": 60,
@@ -182,7 +182,7 @@ export const petdata = {
         },
         {
             "id": 21,
-            "name": "devil-mask",
+            "name": "Devil mask",
             "iconUrl": "svg/devil-mask.svg",
             "stats": {
                 "hp": 95,
@@ -191,7 +191,7 @@ export const petdata = {
         },
         {
             "id": 22,
-            "name": "djinn",
+            "name": "Djinn",
             "iconUrl": "svg/djinn.svg",
             "stats": {
                 "hp": 39,
@@ -200,7 +200,7 @@ export const petdata = {
         },
         {
             "id": 23,
-            "name": "drakkar-dragon",
+            "name": "Drakkar dragon",
             "iconUrl": "svg/drakkar-dragon.svg",
             "stats": {
                 "hp": 73,
@@ -209,7 +209,7 @@ export const petdata = {
         },
         {
             "id": 24,
-            "name": "egyptian-sphinx",
+            "name": "Egyptian sphinx",
             "iconUrl": "svg/egyptian-sphinx.svg",
             "stats": {
                 "hp": 27,
@@ -218,7 +218,7 @@ export const petdata = {
         },
         {
             "id": 25,
-            "name": "elysium-shade",
+            "name": "Elysium shade",
             "iconUrl": "svg/elysium-shade.svg",
             "stats": {
                 "hp": 51,
@@ -227,7 +227,7 @@ export const petdata = {
         },
         {
             "id": 26,
-            "name": "fairy",
+            "name": "Fairy",
             "iconUrl": "svg/fairy.svg",
             "stats": {
                 "hp": 84,
@@ -236,7 +236,7 @@ export const petdata = {
         },
         {
             "id": 27,
-            "name": "female-vampire",
+            "name": "Female vampire",
             "iconUrl": "svg/female-vampire.svg",
             "stats": {
                 "hp": 18,
@@ -245,7 +245,7 @@ export const petdata = {
         },
         {
             "id": 28,
-            "name": "fish-monster",
+            "name": "Fish monster",
             "iconUrl": "svg/fish-monster.svg",
             "stats": {
                 "hp": 62,
@@ -254,7 +254,7 @@ export const petdata = {
         },
         {
             "id": 29,
-            "name": "floating-ghost",
+            "name": "Floating ghost",
             "iconUrl": "svg/floating-ghost.svg",
             "stats": {
                 "hp": 47,
@@ -263,7 +263,7 @@ export const petdata = {
         },
         {
             "id": 30,
-            "name": "floating-tentacles",
+            "name": "Floating tentacles",
             "iconUrl": "svg/floating-tentacles.svg",
             "stats": {
                 "hp": 90,
@@ -272,7 +272,7 @@ export const petdata = {
         },
         {
             "id": 31,
-            "name": "gargoyle",
+            "name": "Gargoyle",
             "iconUrl": "svg/gargoyle.svg",
             "stats": {
                 "hp": 23,
@@ -281,7 +281,7 @@ export const petdata = {
         },
         {
             "id": 32,
-            "name": "giant",
+            "name": "Giant",
             "iconUrl": "svg/giant.svg",
             "stats": {
                 "hp": 76,
@@ -290,7 +290,7 @@ export const petdata = {
         },
         {
             "id": 33,
-            "name": "goblin-head",
+            "name": "Goblin head",
             "iconUrl": "svg/goblin-head.svg",
             "stats": {
                 "hp": 41,
@@ -299,7 +299,7 @@ export const petdata = {
         },
         {
             "id": 34,
-            "name": "golem-head",
+            "name": "Golem head",
             "iconUrl": "svg/golem-head.svg",
             "stats": {
                 "hp": 95,
@@ -308,7 +308,7 @@ export const petdata = {
         },
         {
             "id": 35,
-            "name": "grasping-slug",
+            "name": "Grasping slug",
             "iconUrl": "svg/grasping-slug.svg",
             "stats": {
                 "hp": 58,
@@ -317,7 +317,7 @@ export const petdata = {
         },
         {
             "id": 36,
-            "name": "greek-sphinx",
+            "name": "Greek sphinx",
             "iconUrl": "svg/greek-sphinx.svg",
             "stats": {
                 "hp": 12,
@@ -326,7 +326,7 @@ export const petdata = {
         },
         {
             "id": 37,
-            "name": "griffin-symbol",
+            "name": "Griffin symbol",
             "iconUrl": "svg/griffin-symbol.svg",
             "stats": {
                 "hp": 84,
@@ -335,7 +335,7 @@ export const petdata = {
         },
         {
             "id": 38,
-            "name": "half-body-crawling",
+            "name": "Half body crawling",
             "iconUrl": "svg/half-body-crawling.svg",
             "stats": {
                 "hp": 29,
@@ -344,7 +344,7 @@ export const petdata = {
         },
         {
             "id": 39,
-            "name": "horned-reptile",
+            "name": "Horned reptile",
             "iconUrl": "svg/horned-reptile.svg",
             "stats": {
                 "hp": 93,
@@ -353,7 +353,7 @@ export const petdata = {
         },
         {
             "id": 40,
-            "name": "horus",
+            "name": "Horus",
             "iconUrl": "svg/horus.svg",
             "stats": {
                 "hp": 36,
@@ -362,7 +362,7 @@ export const petdata = {
         },
         {
             "id": 41,
-            "name": "ice-golem",
+            "name": "Ice golem",
             "iconUrl": "svg/ice-golem.svg",
             "stats": {
                 "hp": 70,
@@ -371,7 +371,7 @@ export const petdata = {
         },
         {
             "id": 42,
-            "name": "jawless-cyclop",
+            "name": "Jawless cyclop",
             "iconUrl": "svg/jawless-cyclop.svg",
             "stats": {
                 "hp": 54,
@@ -380,7 +380,7 @@ export const petdata = {
         },
         {
             "id": 43,
-            "name": "kenku-head",
+            "name": "Kenku head",
             "iconUrl": "svg/kenku-head.svg",
             "stats": {
                 "hp": 79,
@@ -389,7 +389,7 @@ export const petdata = {
         },
         {
             "id": 44,
-            "name": "kraken-tentacle",
+            "name": "Kraken tentacle",
             "iconUrl": "svg/kraken-tentacle.svg",
             "stats": {
                 "hp": 21,
@@ -398,7 +398,7 @@ export const petdata = {
         },
         {
             "id": 45,
-            "name": "mermaid",
+            "name": "Mermaid",
             "iconUrl": "svg/mermaid.svg",
             "stats": {
                 "hp": 96,
@@ -407,7 +407,7 @@ export const petdata = {
         },
         {
             "id": 46,
-            "name": "metroid",
+            "name": "Metroid",
             "iconUrl": "svg/metroid.svg",
             "stats": {
                 "hp": 39,
@@ -416,7 +416,7 @@ export const petdata = {
         },
         {
             "id": 47,
-            "name": "mimic-chest",
+            "name": "Mimic chest",
             "iconUrl": "svg/mimic-chest.svg",
             "stats": {
                 "hp": 82,
@@ -425,7 +425,7 @@ export const petdata = {
         },
         {
             "id": 48,
-            "name": "mummy-head",
+            "name": "Mummy head",
             "iconUrl": "svg/mummy-head.svg",
             "stats": {
                 "hp": 27,
@@ -434,7 +434,7 @@ export const petdata = {
         },
         {
             "id": 49,
-            "name": "ogre",
+            "name": "Ogre",
             "iconUrl": "svg/ogre.svg",
             "stats": {
                 "hp": 71,
@@ -443,7 +443,7 @@ export const petdata = {
         },
         {
             "id": 50,
-            "name": "oni",
+            "name": "Oni",
             "iconUrl": "svg/oni.svg",
             "stats": {
                 "hp": 55,
@@ -452,7 +452,7 @@ export const petdata = {
         },
         {
             "id": 51,
-            "name": "orc-head",
+            "name": "Orc head",
             "iconUrl": "svg/orc-head.svg",
             "stats": {
                 "hp": 60,
@@ -461,7 +461,7 @@ export const petdata = {
         },
         {
             "id": 52,
-            "name": "pick-of-destiny",
+            "name": "Pick of Destiny",
             "iconUrl": "svg/pick-of-destiny.svg",
             "stats": {
                 "hp": 94,
@@ -470,7 +470,7 @@ export const petdata = {
         },
         {
             "id": 53,
-            "name": "purple-tentacle",
+            "name": "Purple tentacle",
             "iconUrl": "svg/purple-tentacle.svg",
             "stats": {
                 "hp": 17,
@@ -479,7 +479,7 @@ export const petdata = {
         },
         {
             "id": 54,
-            "name": "resting-vampire",
+            "name": "Resting vampire",
             "iconUrl": "svg/resting-vampire.svg",
             "stats": {
                 "hp": 80,
@@ -488,7 +488,7 @@ export const petdata = {
         },
         {
             "id": 55,
-            "name": "rock-golem",
+            "name": "Rock golem",
             "iconUrl": "svg/rock-golem.svg",
             "stats": {
                 "hp": 45,
@@ -497,7 +497,7 @@ export const petdata = {
         },
         {
             "id": 56,
-            "name": "sasquatch",
+            "name": "Sasquatch",
             "iconUrl": "svg/sasquatch.svg",
             "stats": {
                 "hp": 88,
@@ -506,7 +506,7 @@ export const petdata = {
         },
         {
             "id": 57,
-            "name": "shambling-mound",
+            "name": "Shambling mound",
             "iconUrl": "svg/shambling-mound.svg",
             "stats": {
                 "hp": 63,
@@ -515,7 +515,7 @@ export const petdata = {
         },
         {
             "id": 58,
-            "name": "shambling-zombie",
+            "name": "Shambling zombie",
             "iconUrl": "svg/shambling-zombie.svg",
             "stats": {
                 "hp": 19,
@@ -524,7 +524,7 @@ export const petdata = {
         },
         {
             "id": 59,
-            "name": "slime",
+            "name": "Slime",
             "iconUrl": "svg/slime.svg",
             "stats": {
                 "hp": 72,
@@ -533,7 +533,7 @@ export const petdata = {
         },
         {
             "id": 60,
-            "name": "spider-eye",
+            "name": "Spider eye",
             "iconUrl": "svg/spider-eye.svg",
             "stats": {
                 "hp": 26,
@@ -542,7 +542,7 @@ export const petdata = {
         },
         {
             "id": 61,
-            "name": "spiked-dragon-head",
+            "name": "Spiked dragon head",
             "iconUrl": "svg/spiked-dragon-head.svg",
             "stats": {
                 "hp": 91,
@@ -551,7 +551,7 @@ export const petdata = {
         },
         {
             "id": 62,
-            "name": "swallower",
+            "name": "Swallower",
             "iconUrl": "svg/swallower.svg",
             "stats": {
                 "hp": 35,
@@ -560,543 +560,543 @@ export const petdata = {
         },
         {
             "id": 63,
-            "name": "swamp-bat",
+            "name": "Swamp bat",
             "iconUrl": "svg/swamp-bat.svg",
             "stats": {
                 "hp": 78,
                 "mana": 85
             }
         },
-        {
-            "id": 64,
-            "name": "thwomp",
-            "iconUrl": "svg/thwomp.svg",
-            "stats": {
-                "hp": 52,
-                "mana": 30
+            {
+                "id": 64,
+                "name": "Thwomp",
+                "iconUrl": "svg/thwomp.svg",
+                "stats": {
+                    "hp": 52,
+                    "mana": 30
+                }
+            },
+            {
+                "id": 65,
+                "name": "Troglodyte",
+                "iconUrl": "svg/troglodyte.svg",
+                "stats": {
+                    "hp": 97,
+                    "mana": 74
+                }
+            },
+            {
+                "id": 66,
+                "name": "Unicorn",
+                "iconUrl": "svg/unicorn.svg",
+                "stats": {
+                    "hp": 31,
+                    "mana": 59
+                }
+            },
+            {
+                "id": 67,
+                "name": "Vampire Dracula",
+                "iconUrl": "svg/vampire-dracula.svg",
+                "stats": {
+                    "hp": 65,
+                    "mana": 83
+                }
+            },
+            {
+                "id": 68,
+                "name": "Dragon head",
+                "iconUrl": "svg/dragon-head.svg",
+                "stats": {
+                    "hp": 48,
+                    "mana": 28
+                }
+            },
+            {
+                "id": 69,
+                "name": "Beast eye",
+                "iconUrl": "svg/beast-eye.svg",
+                "stats": {
+                    "hp": 83,
+                    "mana": 93
+                }
+            },
+            {
+                "id": 70,
+                "name": "Behold",
+                "iconUrl": "svg/behold.svg",
+                "stats": {
+                    "hp": 37,
+                    "mana": 67
+                }
+            },
+            {
+                "id": 71,
+                "name": "Bestial fangs",
+                "iconUrl": "svg/bestial-fangs.svg",
+                "stats": {
+                    "hp": 70,
+                    "mana": 22
+                }
+            },
+            {
+                "id": 72,
+                "name": "Cracked alien skull",
+                "iconUrl": "svg/cracked-alien-skull.svg",
+                "stats": {
+                    "hp": 25,
+                    "mana": 56
+                }
+            },
+            {
+                "id": 73,
+                "name": "Cyclops",
+                "iconUrl": "svg/cyclops.svg",
+                "stats": {
+                    "hp": 99,
+                    "mana": 91
+                }
+            },
+            {
+                "id": 74,
+                "name": "Daemon skull",
+                "iconUrl": "svg/daemon-skull.svg",
+                "stats": {
+                    "hp": 43,
+                    "mana": 76
+                }
+            },
+            {
+                "id": 75,
+                "name": "Diablo skull",
+                "iconUrl": "svg/diablo-skull.svg",
+                "stats": {
+                    "hp": 76,
+                    "mana": 31
+                }
+            },
+            {
+                "id": 76,
+                "name": "Dinosaur bones",
+                "iconUrl": "svg/dinosaur-bones.svg",
+                "stats": {
+                    "hp": 20,
+                    "mana": 65
+                }
+            },
+            {
+                "id": 77,
+                "name": "Dinosaur egg",
+                "iconUrl": "svg/dinosaur-egg.svg",
+                "stats": {
+                    "hp": 94,
+                    "mana": 49
+                }
+            },
+            {
+                "id": 78,
+                "name": "Dinosaur rex",
+                "iconUrl": "svg/dinosaur-rex.svg",
+                "stats": {
+                    "hp": 59,
+                    "mana": 84
+                }
+            },
+            {
+                "id": 79,
+                "name": "Double dragon",
+                "iconUrl": "svg/double-dragon.svg",
+                "stats": {
+                    "hp": 33,
+                    "mana": 39
+                }
+            },
+            {
+                "id": 80,
+                "name": "Dragon head",
+                "iconUrl": "svg/dragon-head.svg",
+                "stats": {
+                    "hp": 87,
+                    "mana": 73
+                }
+            },
+            {
+                "id": 81,
+                "name": "Dragon spiral",
+                "iconUrl": "svg/dragon-spiral.svg",
+                "stats": {
+                    "hp": 62,
+                    "mana": 18
+                }
+            },
+            {
+                "id": 82,
+                "name": "Ent mouth",
+                "iconUrl": "svg/ent-mouth.svg",
+                "stats": {
+                    "hp": 46,
+                    "mana": 82
+                }
+            },
+            {
+                "id": 83,
+                "name": "Evil bat",
+                "iconUrl": "svg/evil-bat.svg",
+                "stats": {
+                    "hp": 90,
+                    "mana": 67
+                }
+            },
+            {
+                "id": 84,
+                "name": "Evil book",
+                "iconUrl": "svg/evil-book.svg",
+                "stats": {
+                    "hp": 24,
+                    "mana": 52
+                }
+            },
+            {
+                "id": 85,
+                "name": "Evil comet",
+                "iconUrl": "svg/evil-comet.svg",
+                "stats": {
+                    "hp": 79,
+                    "mana": 97
+                }
+            },
+            {
+                "id": 86,
+                "name": "Evil fork",
+                "iconUrl": "svg/evil-fork.svg",
+                "stats": {
+                    "hp": 53,
+                    "mana": 42
+                }
+            },
+            {
+                "id": 87,
+                "name": "Evil minion",
+                "iconUrl": "svg/evil-minion.svg",
+                "stats": {
+                    "hp": 97,
+                    "mana": 86
+                }
+            },
+            {
+                "id": 88,
+                "name": "Evil moon",
+                "iconUrl": "svg/evil-moon.svg",
+                "stats": {
+                    "hp": 31,
+                    "mana": 21
+                }
+            },
+            {
+                "id": 89,
+                "name": "Evil tree",
+                "iconUrl": "svg/evil-tree.svg",
+                "stats": {
+                    "hp": 85,
+                    "mana": 75
+                }
+            },
+            {
+                "id": 90,
+                "name": "Eyestalk",
+                "iconUrl": "svg/eyestalk.svg",
+                "stats": {
+                    "hp": 40,
+                    "mana": 60
+                }
+            },
+            {
+                "id": 91,
+                "name": "Fairy",
+                "iconUrl": "svg/fairy.svg",
+                "stats": {
+                    "hp": 74,
+                    "mana": 15
+                }
+            },
+            {
+                "id": 92,
+                "name": "Fleshy mass",
+                "iconUrl": "svg/fleshy-mass.svg",
+                "stats": {
+                    "hp": 29,
+                    "mana": 89
+                }
+            },
+            {
+                "id": 93,
+                "name": "Frankenstein creature",
+                "iconUrl": "svg/frankenstein-creature.svg",
+                "stats": {
+                    "hp": 63,
+                    "mana": 44
+                }
+            },
+            {
+                "id": 94,
+                "name": "Ghost",
+                "iconUrl": "svg/ghost.svg",
+                "stats": {
+                    "hp": 17,
+                    "mana": 78
+                }
+            },
+            {
+                "id": 95,
+                "name": "Gluttonous smile",
+                "iconUrl": "svg/gluttonous-smile.svg",
+                "stats": {
+                    "hp": 81,
+                    "mana": 33
+                }
+            },
+            {
+                "id": 96,
+                "name": "Gooey daemon",
+                "iconUrl": "svg/gooey-daemon.svg",
+                "stats": {
+                    "hp": 56,
+                    "mana": 68
+                }
+            },
+            {
+                "id": 97,
+                "name": "Grim reaper",
+                "iconUrl": "svg/grim-reaper.svg",
+                "stats": {
+                    "hp": 30,
+                    "mana": 13
+                }
+            },
+            {
+                "id": 98,
+                "name": "Harpy",
+                "iconUrl": "svg/harpy.svg",
+                "stats": {
+                    "hp": 94,
+                    "mana": 57
+                }
+            },
+            {
+                "id": 99,
+                "name": "Haunting",
+                "iconUrl": "svg/haunting.svg",
+                "stats": {
+                    "hp": 69,
+                    "mana": 82
+                }
+            },
+            {
+                "id": 100,
+                "name": "Horned skull",
+                "iconUrl": "svg/horned-skull.svg",
+                "stats": {
+                    "hp": 23,
+                    "mana": 27
+                }
+            },
+            {
+                "id": 101,
+                "name": "Hydra",
+                "iconUrl": "svg/hydra.svg",
+                "stats": {
+                    "hp": 77,
+                    "mana": 71
+                }
+            },
+            {
+                "id": 102,
+                "name": "Hydra shot",
+                "iconUrl": "svg/hydra-shot.svg",
+                "stats": {
+                    "hp": 52,
+                    "mana": 16
+                }
+            },
+            {
+                "id": 103,
+                "name": "Ifrit",
+                "iconUrl": "svg/ifrit.svg",
+                "stats": {
+                    "hp": 86,
+                    "mana": 90
+                }
+            },
+            {
+                "id": 104,
+                "name": "Imp",
+                "iconUrl": "svg/imp.svg",
+                "stats": {
+                    "hp": 21,
+                    "mana": 35
+                }
+            },
+            {
+                "id": 105,
+                "name": "Imp laugh",
+                "iconUrl": "svg/imp-laugh.svg",
+                "stats": {
+                    "hp": 75,
+                    "mana": 79
+                }
+            },
+            {
+                "id": 106,
+                "name": "Infested mass",
+                "iconUrl": "svg/infested-mass.svg",
+                "stats": {
+                    "hp": 40,
+                    "mana": 24
+                }
+            },
+            {
+                "id": 107,
+                "name": "Lizardman",
+                "iconUrl": "svg/lizardman.svg",
+                "stats": {
+                    "hp": 84,
+                    "mana": 69
+                }
+            },
+            {
+                "id": 108,
+                "name": "Minotaur",
+                "iconUrl": "svg/minotaur.svg",
+                "stats": {
+                    "hp": 19,
+                    "mana": 93
+                }
+            },
+            {
+                "id": 109,
+                "name": "Pretty fangs",
+                "iconUrl": "svg/pretty-fangs.svg",
+                "stats": {
+                    "hp": 63,
+                    "mana": 48
+                }
+            },
+            {
+                "id": 110,
+                "name": "Sea dragon",
+                "iconUrl": "svg/sea-dragon.svg",
+                "stats": {
+                    "hp": 98,
+                    "mana": 83
+                }
+            },
+            {
+                "id": 111,
+                "name": "Sharp smile",
+                "iconUrl": "svg/sharp-smile.svg",
+                "stats": {
+                    "hp": 32,
+                    "mana": 18
+                }
+            },
+            {
+                "id": 112,
+                "name": "Spark spirit",
+                "iconUrl": "svg/spark-spirit.svg",
+                "stats": {
+                    "hp": 87,
+                    "mana": 62
+                }
+            },
+            {
+                "id": 113,
+                "name": "Spectre",
+                "iconUrl": "svg/spectre.svg",
+                "stats": {
+                    "hp": 41,
+                    "mana": 47
+                }
+            },
+            {
+                "id": 114,
+                "name": "Toad teeth",
+                "iconUrl": "svg/toad-teeth.svg",
+                "stats": {
+                    "hp": 95,
+                    "mana": 91
+                }
+            },
+            {
+                "id": 115,
+                "name": "Triton head",
+                "iconUrl": "svg/triton-head.svg",
+                "stats": {
+                    "hp": 50,
+                    "mana": 36
+                }
+            },
+            {
+                "id": 116,
+                "name": "Unfriendly fire",
+                "iconUrl": "svg/unfriendly-fire.svg",
+                "stats": {
+                    "hp": 74,
+                    "mana": 80
+                }
+            },
+            {
+                "id": 117,
+                "name": "Vile fluid",
+                "iconUrl": "svg/vile-fluid.svg",
+                "stats": {
+                    "hp": 29,
+                    "mana": 15
+                }
+            },
+            {
+                "id": 118,
+                "name": "Werewolf",
+                "iconUrl": "svg/werewolf.svg",
+                "stats": {
+                    "hp": 83,
+                    "mana": 59
+                }
+            },
+            {
+                "id": 119,
+                "name": "Witch flight",
+                "iconUrl": "svg/witch-flight.svg",
+                "stats": {
+                    "hp": 18,
+                    "mana": 44
+                }
+            },
+            {
+                "id": 120,
+                "name": "Wyvern",
+                "iconUrl": "svg/wyvern.svg",
+                "stats": {
+                    "hp": 92,
+                    "mana": 88
+                }
+            },
+            {
+                "id": 121,
+                "name": "Sea creature",
+                "iconUrl": "svg/sea-creature.svg",
+                "stats": {
+                    "hp": 37,
+                    "mana": 23
+                }
+            },
+            {
+                "id": 122,
+                "name": "Troll",
+                "iconUrl": "svg/troll.svg",
+                "stats": {
+                    "hp": 81,
+                    "mana": 67
+                }
             }
-        },
-        {
-            "id": 65,
-            "name": "troglodyte",
-            "iconUrl": "svg/troglodyte.svg",
-            "stats": {
-                "hp": 97,
-                "mana": 74
-            }
-        },
-        {
-            "id": 66,
-            "name": "unicorn",
-            "iconUrl": "svg/unicorn.svg",
-            "stats": {
-                "hp": 31,
-                "mana": 59
-            }
-        },
-        {
-            "id": 67,
-            "name": "vampire-dracula",
-            "iconUrl": "svg/vampire-dracula.svg",
-            "stats": {
-                "hp": 65,
-                "mana": 83
-            }
-        },
-        {
-            "id": 68,
-            "name": "dragon-head",
-            "iconUrl": "svg/dragon-head.svg",
-            "stats": {
-                "hp": 48,
-                "mana": 28
-            }
-        },
-        {
-            "id": 69,
-            "name": "beast-eye",
-            "iconUrl": "svg/beast-eye.svg",
-            "stats": {
-                "hp": 83,
-                "mana": 93
-            }
-        },
-        {
-            "id": 70,
-            "name": "behold",
-            "iconUrl": "svg/behold.svg",
-            "stats": {
-                "hp": 37,
-                "mana": 67
-            }
-        },
-        {
-            "id": 71,
-            "name": "bestial-fangs",
-            "iconUrl": "svg/bestial-fangs.svg",
-            "stats": {
-                "hp": 70,
-                "mana": 22
-            }
-        },
-        {
-            "id": 72,
-            "name": "cracked-alien-skull",
-            "iconUrl": "svg/cracked-alien-skull.svg",
-            "stats": {
-                "hp": 25,
-                "mana": 56
-            }
-        },
-        {
-            "id": 73,
-            "name": "cyclops",
-            "iconUrl": "svg/cyclops.svg",
-            "stats": {
-                "hp": 99,
-                "mana": 91
-            }
-        },
-        {
-            "id": 74,
-            "name": "daemon-skull",
-            "iconUrl": "svg/daemon-skull.svg",
-            "stats": {
-                "hp": 43,
-                "mana": 76
-            }
-        },
-        {
-            "id": 75,
-            "name": "diablo-skull",
-            "iconUrl": "svg/diablo-skull.svg",
-            "stats": {
-                "hp": 76,
-                "mana": 31
-            }
-        },
-        {
-            "id": 76,
-            "name": "dinosaur-bones",
-            "iconUrl": "svg/dinosaur-bones.svg",
-            "stats": {
-                "hp": 20,
-                "mana": 65
-            }
-        },
-        {
-            "id": 77,
-            "name": "dinosaur-egg",
-            "iconUrl": "svg/dinosaur-egg.svg",
-            "stats": {
-                "hp": 94,
-                "mana": 49
-            }
-        },
-        {
-            "id": 78,
-            "name": "dinosaur-rex",
-            "iconUrl": "svg/dinosaur-rex.svg",
-            "stats": {
-                "hp": 59,
-                "mana": 84
-            }
-        },
-        {
-            "id": 79,
-            "name": "double-dragon",
-            "iconUrl": "svg/double-dragon.svg",
-            "stats": {
-                "hp": 33,
-                "mana": 39
-            }
-        },
-        {
-            "id": 80,
-            "name": "dragon-head",
-            "iconUrl": "svg/dragon-head.svg",
-            "stats": {
-                "hp": 87,
-                "mana": 73
-            }
-        },
-        {
-            "id": 81,
-            "name": "dragon-spiral",
-            "iconUrl": "svg/dragon-spiral.svg",
-            "stats": {
-                "hp": 62,
-                "mana": 18
-            }
-        },
-        {
-            "id": 82,
-            "name": "ent-mouth",
-            "iconUrl": "svg/ent-mouth.svg",
-            "stats": {
-                "hp": 46,
-                "mana": 82
-            }
-        },
-        {
-            "id": 83,
-            "name": "evil-bat",
-            "iconUrl": "svg/evil-bat.svg",
-            "stats": {
-                "hp": 90,
-                "mana": 67
-            }
-        },
-        {
-            "id": 84,
-            "name": "evil-book",
-            "iconUrl": "svg/evil-book.svg",
-            "stats": {
-                "hp": 24,
-                "mana": 52
-            }
-        },
-        {
-            "id": 85,
-            "name": "evil-comet",
-            "iconUrl": "svg/evil-comet.svg",
-            "stats": {
-                "hp": 79,
-                "mana": 97
-            }
-        },
-        {
-            "id": 86,
-            "name": "evil-fork",
-            "iconUrl": "svg/evil-fork.svg",
-            "stats": {
-                "hp": 53,
-                "mana": 42
-            }
-        },
-        {
-            "id": 87,
-            "name": "evil-minion",
-            "iconUrl": "svg/evil-minion.svg",
-            "stats": {
-                "hp": 97,
-                "mana": 86
-            }
-        },
-        {
-            "id": 88,
-            "name": "evil-moon",
-            "iconUrl": "svg/evil-moon.svg",
-            "stats": {
-                "hp": 31,
-                "mana": 21
-            }
-        },
-        {
-            "id": 89,
-            "name": "evil-tree",
-            "iconUrl": "svg/evil-tree.svg",
-            "stats": {
-                "hp": 85,
-                "mana": 75
-            }
-        },
-        {
-            "id": 90,
-            "name": "eyestalk",
-            "iconUrl": "svg/eyestalk.svg",
-            "stats": {
-                "hp": 40,
-                "mana": 60
-            }
-        },
-        {
-            "id": 91,
-            "name": "fairy",
-            "iconUrl": "svg/fairy.svg",
-            "stats": {
-                "hp": 74,
-                "mana": 15
-            }
-        },
-        {
-            "id": 92,
-            "name": "fleshy-mass",
-            "iconUrl": "svg/fleshy-mass.svg",
-            "stats": {
-                "hp": 29,
-                "mana": 89
-            }
-        },
-        {
-            "id": 93,
-            "name": "frankenstein-creature",
-            "iconUrl": "svg/frankenstein-creature.svg",
-            "stats": {
-                "hp": 63,
-                "mana": 44
-            }
-        },
-        {
-            "id": 94,
-            "name": "ghost",
-            "iconUrl": "svg/ghost.svg",
-            "stats": {
-                "hp": 17,
-                "mana": 78
-            }
-        },
-        {
-            "id": 95,
-            "name": "gluttonous-smile",
-            "iconUrl": "svg/gluttonous-smile.svg",
-            "stats": {
-                "hp": 81,
-                "mana": 33
-            }
-        },
-        {
-            "id": 96,
-            "name": "gooey-daemon",
-            "iconUrl": "svg/gooey-daemon.svg",
-            "stats": {
-                "hp": 56,
-                "mana": 68
-            }
-        },
-        {
-            "id": 97,
-            "name": "grim-reaper",
-            "iconUrl": "svg/grim-reaper.svg",
-            "stats": {
-                "hp": 30,
-                "mana": 13
-            }
-        },
-        {
-            "id": 98,
-            "name": "harpy",
-            "iconUrl": "svg/harpy.svg",
-            "stats": {
-                "hp": 94,
-                "mana": 57
-            }
-        },
-        {
-            "id": 99,
-            "name": "haunting",
-            "iconUrl": "svg/haunting.svg",
-            "stats": {
-                "hp": 69,
-                "mana": 82
-            }
-        },
-        {
-            "id": 100,
-            "name": "horned-skull",
-            "iconUrl": "svg/horned-skull.svg",
-            "stats": {
-                "hp": 23,
-                "mana": 27
-            }
-        },
-        {
-            "id": 101,
-            "name": "hydra",
-            "iconUrl": "svg/hydra.svg",
-            "stats": {
-                "hp": 77,
-                "mana": 71
-            }
-        },
-        {
-            "id": 102,
-            "name": "hydra-shot",
-            "iconUrl": "svg/hydra-shot.svg",
-            "stats": {
-                "hp": 52,
-                "mana": 16
-            }
-        },
-        {
-            "id": 103,
-            "name": "ifrit",
-            "iconUrl": "svg/ifrit.svg",
-            "stats": {
-                "hp": 86,
-                "mana": 90
-            }
-        },
-        {
-            "id": 104,
-            "name": "imp",
-            "iconUrl": "svg/imp.svg",
-            "stats": {
-                "hp": 21,
-                "mana": 35
-            }
-        },
-        {
-            "id": 105,
-            "name": "imp-laugh",
-            "iconUrl": "svg/imp-laugh.svg",
-            "stats": {
-                "hp": 75,
-                "mana": 79
-            }
-        },
-        {
-            "id": 106,
-            "name": "infested-mass",
-            "iconUrl": "svg/infested-mass.svg",
-            "stats": {
-                "hp": 40,
-                "mana": 24
-            }
-        },
-        {
-            "id": 107,
-            "name": "lizardman",
-            "iconUrl": "svg/lizardman.svg",
-            "stats": {
-                "hp": 84,
-                "mana": 69
-            }
-        },
-        {
-            "id": 108,
-            "name": "minotaur",
-            "iconUrl": "svg/minotaur.svg",
-            "stats": {
-                "hp": 19,
-                "mana": 93
-            }
-        },
-        {
-            "id": 109,
-            "name": "pretty-fangs",
-            "iconUrl": "svg/pretty-fangs.svg",
-            "stats": {
-                "hp": 63,
-                "mana": 48
-            }
-        },
-        {
-            "id": 110,
-            "name": "sea-dragon",
-            "iconUrl": "svg/sea-dragon.svg",
-            "stats": {
-                "hp": 98,
-                "mana": 83
-            }
-        },
-        {
-            "id": 111,
-            "name": "sharp-smile",
-            "iconUrl": "svg/sharp-smile.svg",
-            "stats": {
-                "hp": 32,
-                "mana": 18
-            }
-        },
-        {
-            "id": 112,
-            "name": "spark-spirit",
-            "iconUrl": "svg/spark-spirit.svg",
-            "stats": {
-                "hp": 87,
-                "mana": 62
-            }
-        },
-        {
-            "id": 113,
-            "name": "spectre",
-            "iconUrl": "svg/spectre.svg",
-            "stats": {
-                "hp": 41,
-                "mana": 47
-            }
-        },
-        {
-            "id": 114,
-            "name": "toad-teeth",
-            "iconUrl": "svg/toad-teeth.svg",
-            "stats": {
-                "hp": 95,
-                "mana": 91
-            }
-        },
-        {
-            "id": 115,
-            "name": "triton-head",
-            "iconUrl": "svg/triton-head.svg",
-            "stats": {
-                "hp": 50,
-                "mana": 36
-            }
-        },
-        {
-            "id": 116,
-            "name": "unfriendly-fire",
-            "iconUrl": "svg/unfriendly-fire.svg",
-            "stats": {
-                "hp": 74,
-                "mana": 80
-            }
-        },
-        {
-            "id": 117,
-            "name": "vile-fluid",
-            "iconUrl": "svg/vile-fluid.svg",
-            "stats": {
-                "hp": 29,
-                "mana": 15
-            }
-        },
-        {
-            "id": 118,
-            "name": "werewolf",
-            "iconUrl": "svg/werewolf.svg",
-            "stats": {
-                "hp": 83,
-                "mana": 59
-            }
-        },
-        {
-            "id": 119,
-            "name": "witch-flight",
-            "iconUrl": "svg/witch-flight.svg",
-            "stats": {
-                "hp": 18,
-                "mana": 44
-            }
-        },
-        {
-            "id": 120,
-            "name": "wyvern",
-            "iconUrl": "svg/wyvern.svg",
-            "stats": {
-                "hp": 92,
-                "mana": 88
-            }
-        },
-        {
-            "id": 121,
-            "name": "sea-creature",
-            "iconUrl": "svg/sea-creature.svg",
-            "stats": {
-                "hp": 37,
-                "mana": 23
-            }
-        },
-        {
-            "id": 122,
-            "name": "troll",
-            "iconUrl": "svg/troll.svg",
-            "stats": {
-                "hp": 81,
-                "mana": 67
-            }
-        }
-    ]
-}
+        ]
+    };

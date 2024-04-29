@@ -25,14 +25,14 @@
                 border-radius: 4px;
                 padding: 20px;
                 margin-bottom: 20px;
-                filter: blur(4px);
+                xfilter: blur(4px);
                 /* Add blur effect */
-                transition: filter 0.3s ease;
+                xtransition: filter 0.3s ease;
                 /* Add transition for smooth effect */
             }
 
             .card:hover {
-                filter: blur(0);
+                xfilter: blur(0);
                 /* Remove blur on hover */
             }
 
@@ -85,6 +85,8 @@
                     <p>Mana: <span id="petMana"></span></p>
                     <p>Wins: <span id="petWins"></span></p>
                     <p>Losses: <span id="petLosses"></span></p>
+                    <p>Experience: <span id="petExperience"></span></p>
+
                 </div>
             </div>
             <h4>Inventory:</h4>

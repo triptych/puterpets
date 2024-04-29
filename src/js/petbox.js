@@ -48,9 +48,10 @@ export class PetBox extends HTMLElement {
     }
 
     adoptPet() {
-        const pet = petdata.data[this.currentIndex];
-        localStorage.setItem('adoptedPet', JSON.stringify(pet));
-        console.log(`Adopted pet: ${pet.name}`);
+      const pet = petdata.data[this.currentIndex];
+      pet.experience = 0; // Initialize experience to 0
+      localStorage.setItem('adoptedPet', JSON.stringify(pet));
+      console.log(`Adopted pet: ${pet.name}`);
     }
 
     displayWinsLosses(petId) {

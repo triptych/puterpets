@@ -63,29 +63,104 @@
                 font-weight: bold;
                 text-align: center;
             }
+
             @keyframes shakePlayer {
-      0% { transform: translateX(0); }
-      10% { transform: translateX(-5px); }
-      20% { transform: translateX(5px); }
-      30% { transform: translateX(-5px); }
-      40% { transform: translateX(5px); }
-      50% { transform: translateX(0); }
-      100% { transform: translateX(0); }
+                0% {
+                    transform: translateX(0);
+                }
+
+                10% {
+                    transform: translateX(-5px);
+                }
+
+                20% {
+                    transform: translateX(5px);
+                }
+
+                30% {
+                    transform: translateX(-5px);
+                }
+
+                40% {
+                    transform: translateX(5px);
+                }
+
+                50% {
+                    transform: translateX(0);
+                }
+
+                100% {
+                    transform: translateX(0);
+                }
+            }
+
+            @keyframes shakeOpponent {
+                0% {
+                    transform: translateX(0);
+                }
+
+                10% {
+                    transform: translateX(5px);
+                }
+
+                20% {
+                    transform: translateX(-5px);
+                }
+
+                30% {
+                    transform: translateX(5px);
+                }
+
+                40% {
+                    transform: translateX(-5px);
+                }
+
+                50% {
+                    transform: translateX(0);
+                }
+
+                100% {
+                    transform: translateX(0);
+                }
+            }
+
+            .shakePlayer {
+                animation: shakePlayer 0.5s;
+            }
+
+            .shakeOpponent {
+                animation: shakeOpponent 0.5s;
+            }
+
+            .fight-button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #8B0000;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+      transition: transform 0.5s ease-in-out;
+      animation: pulse 3s infinite;
+      margin: 8px;
     }
-    @keyframes shakeOpponent {
-      0% { transform: translateX(0); }
-      10% { transform: translateX(5px); }
-      20% { transform: translateX(-5px); }
-      30% { transform: translateX(5px); }
-      40% { transform: translateX(-5px); }
-      50% { transform: translateX(0); }
-      100% { transform: translateX(0); }
+
+    .fight-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     }
-    .shakePlayer {
-      animation: shakePlayer 0.5s;
-    }
-    .shakeOpponent {
-      animation: shakeOpponent 0.5s;
+
+    @keyframes pulse {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.05);
+      }
+      100% {
+        transform: scale(1);
+      }
     }
         </style>
         <div class="battle-container">

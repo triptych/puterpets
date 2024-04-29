@@ -59,9 +59,12 @@ export class BattleComponent extends HTMLElement {
     if (this.opponentPet.stats.hp <= 0) {
       this.resultMessage.textContent = "You win!";
       this.updateWinsLosses('wins');
+      this.awardExperience(); // Award experience for winning
       this.resetPetHP();
       return;
     }
+
+ 
 
     // Opponent attacks player
     const opponentDamage = Math.floor(Math.random() * 8) + 1;
@@ -81,6 +84,12 @@ export class BattleComponent extends HTMLElement {
 
   }
 
+  awardExperience() {
+    const experienceGained = Math.floor(Math.random() * 10) + 1; // Random experience between 1 and 10
+    this.playerPet.experience = (this.playerPet.experience || 0) + experienceGained;
+    localStorage.setItem('adoptedPet', JSON.stringify(this.playerPet));
+    console.log(`Pet gained ${experienceGained} experience. Total experience: ${this.playerPet.experience}`);
+  }
 
   updateWinsLosses(result) {
     const winsLosses = JSON.parse(localStorage.getItem('winsLosses')) || {};

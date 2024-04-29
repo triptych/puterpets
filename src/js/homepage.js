@@ -20,6 +20,8 @@ export class HomePage extends HTMLElement {
       const petLosses = this.shadowRoot.getElementById('petLosses');
       const inventoryTable = this.shadowRoot.getElementById('inventoryTable');
       const inventoryTableBody = inventoryTable.querySelector('tbody');
+      const petExperience = this.shadowRoot.getElementById('petExperience');
+
 
       if (adoptedPet) {
         emptyCard.style.display = 'none';
@@ -30,6 +32,8 @@ export class HomePage extends HTMLElement {
         petMana.textContent = adoptedPet.stats.mana;
         petWins.textContent = winsLosses[adoptedPet.id]?.wins || 0;
         petLosses.textContent = winsLosses[adoptedPet.id]?.losses || 0;
+        petExperience.textContent = ` ${adoptedPet.experience || 0}`;
+
       }
 
       inventory.forEach(item => {
